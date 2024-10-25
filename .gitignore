@@ -5,3 +5,6 @@
 /.ghc.environment.*
 /result*
 /.direnv
+*.eventlog*
+*.hp
+cabal.project.local

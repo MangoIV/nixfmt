@@ -115,6 +115,8 @@ build
       cabal-install
       stylish-haskell
       haskellPackages.haskell-language-server
+      haskellPackages.eventlog2html
+      haskellPackages.hs-speedscope
       shellcheck
       npins
       hlint
